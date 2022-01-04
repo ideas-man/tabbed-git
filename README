@@ -1,0 +1,18 @@
+tabbed - generic tabbed interface
+=================================
+tabbed is a simple tabbed X window container.
+
+Requirements
+------------
+In order to build tabbed you need the Xlib header files.
+
+Installation
+------------
+Enter the following command to build and install tabbed
+(if necessary as root):
+
+    makepkg --noconfirm -Cfsi
+
+Running tabbed
+--------------
+See the man page for details.
